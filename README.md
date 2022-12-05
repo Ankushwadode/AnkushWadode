@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushwadode" alt="ankushwadode" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankushwadode" target="blank"><img src="https://img.shields.io/twitter/follow/ankushwadode?logo=twitter&style=for-the-badge" alt="ankushwadode" /></a> </p>
-<img align="right" alt="Coding" width="420" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
+<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
 - 🌱 I’m currently learning **Java Spring Boot & Cloud**
 
 - 👯 I’m looking to collaborate on **Java and Open Source Projects**
