@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img color="black" src="https://github-profile-trophy.vercel.app/?username=ankushwadode" alt="ankushwadode"/></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ankushwadode" alt="ankushwadode"/></a> 
 </p>
 
 <p align="left"> <a href="https://twitter.com/ankushwadode" target="blank"><img src="https://img.shields.io/twitter/follow/ankushwadode?logo=twitter&style=for-the-badge" alt="ankushwadode" /></a> </p>
