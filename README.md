@@ -57,6 +57,6 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></td></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></td></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=onedark" alt="ankushwadode" /></p>
 
