@@ -54,8 +54,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</br><h1 align="center"> My Github Stats</h1></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&layout=compact&theme=onedark&hide_border=true&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankushwadode&hide_border=true&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode" /></p>
+</br><h1 align="center">Github Stats</h1></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&layout=compact&theme=onedark&hide_border=true&show_icons=true&locale=en" alt="ankushwadode"/></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankushwadode&hide_border=true&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode" /></p>
 
