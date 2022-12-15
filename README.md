@@ -58,6 +58,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&theme=onedark&show_icons=true&locale=en&layout=compact" alt="ankushwadode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&show_icons=true&locale=en" alt="ankushwadode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&theme=onedark&show_icons=true&locale=en" alt="ankushwadode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&" alt="ankushwadode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=onedark" alt="ankushwadode" /></p>
