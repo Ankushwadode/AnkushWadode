@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Open Source Projects**
 
-- 💬 Ask me about **Java and frameworks**
+- 💬 Ask me about **Java & frameworks**
 
 - 📫 How to reach me **ankushwadode154@gmail.com**
 
