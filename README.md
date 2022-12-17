@@ -58,4 +58,4 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&layout=compact&theme=onedark&hide_border=true&show_icons=true&locale=en" alt="ankushwadode"/></p>
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankushwadode&hide_border=true&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode" /></p>
-
+<p>If you like the repo then please leave a star.</p>
