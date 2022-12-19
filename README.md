@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=onedark" alt="ankushwadode"/></a> 
-</p>
-
 <p align="left"> <a href="https://twitter.com/ankushwadode" target="blank">
   <img src="https://img.shields.io/twitter/follow/ankushwadode?logo=twitter&style=for-the-badge" alt="ankushwadode" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
@@ -57,5 +53,6 @@
 </br><h1 align="center">Github Stats</h1></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&layout=compact&theme=onedark&hide_border=true&show_icons=true&locale=en" alt="ankushwadode"/></p>
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankushwadode&hide_border=true&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode"/></p>
+
 <p>If you like the repo then please leave a star.</p>
