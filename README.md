@@ -1,39 +1,40 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm Ankush Wadode</h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+<h3 align="center">A passionate Full Stack Java developer</h3>
+</br>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> 
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ankushwadode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="right" width="130"/></a>
+</div>
+</br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord" alt="ankushwadode" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ankushwadode" target="blank">
-  <img src="https://img.shields.io/twitter/follow/ankushwadode?logo=twitter&style=for-the-badge" alt="ankushwadode" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
-- 🌱 I’m currently learning **Java Spring Boot & Cloud**
-
-- 👯 I’m looking to collaborate on **Java and Open Source Projects**
-
-- 💬 Ask me about **Java & frameworks**
+- 💬 Ask me about **Java Frameworks and Programs**
 
 - 📫 How to reach me **ankushwadode154@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1EnBV21-xUk8k1774MQQrw4wOd9BAHEGM/view?usp=share_link)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1EnBV21-xUk8k1774MQQrw4wOd9BAHEGM/view?usp=share_link)
 
+- ⚡ Fun fact 
+ <img align ="right" alt="developer" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankushwadode" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushwadode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/ankush-wadode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ankush-wadode" height="30" width="40" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/ankushwadode" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankushwadode" height="30" width="40" />
-</a></p>
+<a href="https://twitter.com/ankushwadode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushwadode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/ankush-wadode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ankush-wadode" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ankushwadode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankushwadode" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -43,16 +44,21 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</br><h1 align="center">Github Stats</h1></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&layout=compact&theme=onedark&hide_border=true&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankushwadode&hide_border=true&theme=onedark&show_icons=true&locale=en" alt="ankushwadode"/></p>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&hide_border=true&theme=onedark" alt="ankushwadode"/></p>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+<div align="center">
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankushwadode" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&theme=dark&show_icons=true&locale=en" alt="ankushwadode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=dark" alt="ankushwadode" /></p>
+</div>
 
 <p>If you like the repo then please leave a star.</p>
