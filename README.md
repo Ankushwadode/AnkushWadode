@@ -9,7 +9,7 @@
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord" alt="ankushwadode" /></a> </p>&nbsp;
  <img align ="right" alt="developer" width="450" height="250" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
-- 🌱 I’m currently learning Java Spring Boot & Cloud Services
+-🌱 I’m currently learning Java Spring Boot & Cloud Services
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
