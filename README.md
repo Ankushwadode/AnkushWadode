@@ -69,4 +69,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=dark" alt="ankushwadode" /></p>
 </div>
 
-<p>If you like the repo then please leave a star.</p>
+<p>If you👍the repo then please leave a ⭐.</p>
