@@ -62,11 +62,10 @@
 <p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord&show_icons=true&locale=en&layout=detail&theme=dark" alt="ankushwadode" />
 </p>
- <h3>Top-languages</h3>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushwadode&layout=compact&theme=tokyonight)](https://github.com/ankushwadode/github-readme-stats)
- <h3>Profile-Stats</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushwadode&show_icons=true&theme=radical)
- <h3>Streak</h3>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=dark" alt="ankushwadode" /></p>
 </div>
 
