@@ -63,7 +63,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord&show_icons=true&locale=en&layout=detail&theme=dark" alt="ankushwadode" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushwadode&layout=compact)](https://github.com/ankushwadode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushwadode&layout=compact&theme=tokyonight)](https://github.com/ankushwadode/github-readme-stats)
  
 (https://github-readme-stats.vercel.app/api?username=ankushwadode&show_icons=true&theme=transparent)
  
