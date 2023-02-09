@@ -61,7 +61,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>&nbsp;</p>
 <div align="center">
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushwadode&show_icons=true&locale=en&layout=detail&theme=dark" alt="ankushwadode" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord&show_icons=true&locale=en&layout=detail&theme=dark" alt="ankushwadode" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushwadode&theme=dark&show_icons=true&locale=en" alt="ankushwadode" /></p>
