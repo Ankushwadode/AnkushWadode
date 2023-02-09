@@ -63,8 +63,8 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ankushwadode&theme=discord&show_icons=true&locale=en&layout=detail&theme=dark" alt="ankushwadode" />
 </p>
 
-<a href="https://github.com/ankushwadode/github-readme-stats"><img alt="Ankush wadode Github Stats" src="https://github-readme-stats.vercel.app/api?username=anksuhwadode&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushwadode&show_icons=true&theme=transparent)
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushwadode&theme=dark" alt="ankushwadode" /></p>
 </div>
 
