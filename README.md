@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Java developer</h3>
 </br>
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> 
+<img src="https://komarev.com/ghpvc/?username=Ankushwadode&label=Profile%20views&color=0e75b6&style=flat" alt="ankushwadode" /> 
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ankushwadode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="right" width="130"/></a>
 </div>
 </br>
